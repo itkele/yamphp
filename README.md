@@ -1,4 +1,4 @@
 yamphp
 ======
 
-YamPHP - Yet Another mvc framework for PHP
+YamPHP - Yet another micro framework for PHP
